@@ -3,6 +3,4 @@
 ## Sou Desenvolvedor back-end Java em formação ☕
 
 ## Skills 🤖
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
