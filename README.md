@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/jmatheusz?label=FOLLOWERS&logo=github&style=for-the-badge&color=DC2626&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/REPOS-5-DC2626?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repos" />
-  <img src="https://komarev.com/ghpvc/?username=jmatheusz&label=PROFILE+VIEWS&style=for-the-badge&color=DC2626&labelColor=0D1117" alt="Views" />
 </div>
 
 <br>
@@ -29,8 +28,13 @@ Sou **desenvolvedor Full Stack** com base sólida em **Java e Programação Orie
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api?username=jmatheusz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=DC2626&text_color=C9D1D9&ring_color=EF4444" alt="Stats" />
-  <img height="170" src="https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=jmatheusz&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9" alt="Top languages" />
+  <img height="180" src="https://raw.githubusercontent.com/jmatheusz/jmatheusz/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/jmatheusz/jmatheusz/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://raw.githubusercontent.com/jmatheusz/jmatheusz/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img height="180" src="https://raw.githubusercontent.com/jmatheusz/jmatheusz/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Horário mais produtivo" />
 </div>
 
 <div align="center">
