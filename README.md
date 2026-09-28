@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:DC2626&height=240&section=header&text=Matheus%20Guimar%C3%A3es&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%E2%80%A2%20Java%20%7C%20Spring%20Boot%20%7C%20JWT&descSize=20&descAlignY=58" width="100%" alt="Matheus Guimarães" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:DC2626&height=240&section=header&text=Matheus%20Guimar%C3%A3es&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Java%20%7C%20Spring%20Boot%20%7C%20.NET%20%7C%20N8N&descSize=20&descAlignY=58" width="100%" alt="Matheus Guimarães" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+%2B+JWT+%2B+APIs+REST;C%23+%2B+n8n+%2B+Git+%2B+GitHub;C%C3%B3digo+limpo+hoje%2C+sistemas+s%C3%B3lidos+amanh%C3%A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+%2B+.NET+%2B+React;Docker+%2B+AWS+%2B+N8N+%2B+PostgreSQL;C%C3%B3digo+limpo+hoje%2C+sistemas+s%C3%B3lidos+amanh%C3%A3" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,12 +18,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedor back-end Java em formação**, apaixonado por construir aplicações **robustas, seguras e bem organizadas**. Aplico **POO, boas práticas e arquitetura em camadas** para transformar problemas reais em código limpo.
+Sou **desenvolvedor Full Stack** com base sólida em **Java e Programação Orientada a Objetos**, e experiência prática em **.NET Core/C#** e **React**, construída em projetos reais de **APIs REST**, bancos de dados relacionais e arquitetura de software. Também **automatizo processos de negócio com N8N**, eliminando tarefas manuais repetitivas.
 
-- 🔭 Aprofundando **Java e Spring Boot**
-- 🔐 Praticando **autenticação com JWT** e segurança em APIs
-- 🤖 Explorando **automação de processos com n8n**
-- 🎯 Em busca da minha **primeira oportunidade** como dev back-end
+- ☕ Java, Spring Boot, Spring Data JPA e Hibernate
+- 🔐 Autenticação com **JWT** e boas práticas de **Clean Code**
+- 🐳 Docker, AWS e GitHub Actions
 
 ---
 
@@ -48,82 +47,57 @@ Sou **desenvolvedor back-end Java em formação**, apaixonado por construir apli
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" /><br><br>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java/java-original" /><br><br>
       <b>Java</b><br><br>
       <code>Spring Boot</code><br><code>JPA &amp; Hibernate</code><br><code>REST APIs</code>
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring" /><br><br>
-      <b>Segurança</b><br><br>
-      <code>Spring Security</code><br><code>JWT</code><br><code>Verificação de conta</code>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore/dotnetcore-original" /><br><br>
+      <b>.NET / C#</b><br><br>
+      <code>.NET Core</code><br><code>C#</code><br><code>APIs REST</code>
     </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" /><br><br>
-      <b>C#</b><br><br>
-      <code>POO</code><br><code>Lógica</code><br><code>Sistemas</code>
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react/react-original" /><br><br>
+      <b>Front-end</b><br><br>
+      <code>React</code><br><code>JavaScript ES6+</code><br><code>HTML5 &amp; CSS3</code>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="180">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql/mysql-original" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql/postgresql-original" /><br><br>
+      <b>Databases</b><br><br>
+      <code>MySQL</code><br><code>PostgreSQL</code><br><code>JPA</code>
+    </td>
+    <td align="center" width="180">
       <img src="https://cdn.simpleicons.org/n8n/EF4444" height="60" alt="n8n" /><br><br>
       <b>Automação</b><br><br>
-      <code>n8n</code><br><code>Workflows</code><br><code>Integrações</code>
+      <code>N8N</code><br><code>Workflows</code><br><code>Processos de negócio</code>
     </td>
   </tr>
 </table>
 
-<h2 align="center">⚙️ Development Environment</h2>
+<h2 align="center">⚙️ Cloud &amp; Tools</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ" /><br><br>
-      <b>IntelliJ IDEA</b><br><br>
-      <code>Java Development</code><br><code>Spring Ecosystem</code>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git/git-original" /><br><br>
+      <b>Git &amp; GitHub</b><br><br>
+      <code>Versionamento</code><br><code>GitHub Actions</code><br><code>Colaboração</code>
     </td>
-    <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" /><br><br>
-      <b>Git</b><br><br>
-      <code>Versionamento</code><br><code>Branches</code><br><code>Commits</code>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker/docker-original" /><br><br>
+      <b>Docker</b><br><br>
+      <code>Containers</code><br><code>Dev Environments</code><br><code>Deploy</code>
     </td>
-    <td align="center" width="220">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" /><br><br>
-      <b>GitHub</b><br><br>
-      <code>Repositórios</code><br><code>Colaboração</code><br><code>Portfólio</code>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices/amazonwebservices-line-wordmark" /><br><br>
+      <b>AWS</b><br><br>
+      <code>Cloud</code><br><code>Infraestrutura</code>
     </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/jmatheusz/psicologo-app-backend">psicologo-app-backend</a></h3>
-      Backend de acolhimento psicológico com <b>autenticação, JWT e verificação de conta</b>.<br><br>
-      <img src="https://img.shields.io/badge/Java-DC2626?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-B91C1C?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-EF4444?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/jmatheusz/Controle-De-Gastos-">Controle de Gastos</a></h3>
-      Sistema em Java para praticar <b>POO</b>: enums de categorias, listas, encapsulamento e exceções.<br><br>
-      <img src="https://img.shields.io/badge/Java-DC2626?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/POO-B91C1C?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/jmatheusz/agente-recrutamento-n8n">Agente de Recrutamento</a></h3>
-      Automação de recrutamento com <b>workflows no n8n</b>.<br><br>
-      <img src="https://img.shields.io/badge/n8n-DC2626?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-B91C1C?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/jmatheusz/Unimed">Unimed</a></h3>
-      Projeto em <b>C#</b>, ampliando meu repertório além do ecossistema Java.<br><br>
-      <img src="https://img.shields.io/badge/C%23-DC2626?style=flat-square&logo=csharp&logoColor=white" />
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="postman/postman-original" /><br><br>
+      <b>Postman &amp; Swagger</b><br><br>
+      <code>Maven</code><br><code>OpenAPI</code><br><code>Testes de API</code>
     </td>
   </tr>
 </table>
@@ -133,9 +107,11 @@ Sou **desenvolvedor back-end Java em formação**, apaixonado por construir apli
 <h2 align="center">📫 Get in Touch</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-SEU--USUARIO-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-SEU--USUARIO-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-SEU--EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/jmatheuszdev"><img src="https://img.shields.io/badge/LINKEDIN-JMATHEUSZDEV-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LINKEDIN" /></a>
+  <a href="https://www.instagram.com/jmatheuszin"><img src="https://img.shields.io/badge/INSTAGRAM-JMATHEUSZIN-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="INSTAGRAM" /></a>
+  <br>
+  <a href="mailto:jmatheusguimaraes07@gmail.com"><img src="https://img.shields.io/badge/GMAIL-JMATHEUSGUIMARAES07-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="GMAIL" /></a>
+  <a href="https://github.com/jmatheusz"><img src="https://img.shields.io/badge/GITHUB-JMATHEUSZ-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GITHUB" /></a>
 </div>
 
 <br>
