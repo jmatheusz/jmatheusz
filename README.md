@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/jmatheusz?label=FOLLOWERS&logo=github&style=for-the-badge&color=DC2626&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/REPOS-5-DC2626?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=jmatheusz&label=PROFILE+VIEWS&style=for-the-badge&color=DC2626&labelColor=0D1117" alt="Views" />
 </div>
 
 <br>
