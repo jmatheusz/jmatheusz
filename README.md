@@ -29,16 +29,12 @@ Sou **desenvolvedor Full Stack** com base sólida em **Java e Programação Orie
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jmatheusz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=DC2626&text_color=C9D1D9&ring_color=EF4444" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmatheusz&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api?username=jmatheusz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=DC2626&text_color=C9D1D9&ring_color=EF4444" alt="Stats" />
+  <img height="170" src="https://github-readme-stats-one-sigma-2vyankp7bh.vercel.app/api/top-langs/?username=jmatheusz&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jmatheusz&hide_border=true&background=0D1117&stroke=DC2626&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="170" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmatheusz&bg_color=0D1117&color=EF4444&line=DC2626&point=FFFFFF&area=true&area_color=DC2626&hide_border=true" width="95%" alt="Activity graph" />
 </div>
 
 ---
